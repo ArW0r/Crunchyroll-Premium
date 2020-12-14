@@ -1,6 +1,7 @@
-"name": "crunchyroll",
-	"version": "0",
-	"description": "Não permitekk semzoas",
+{
+	"name": "Crunchyroll de Artokk",
+	"version": "1.0.2",
+	"description": "Manda Salve ai leve .",
 	"author": "ArW0r",
 	"icons": { "48": "icon.png" },
 	"browser_action":{
