@@ -1,11 +1,11 @@
 {
 	"name": "Crunchyroll de Artokk",
-	"version": "1.0.2",
+	"version": "0",
 	"description": "Pra ver e baixar anime coisa de otaco 🤢🤢🤢",
 	"author": "ArW0r",
 	"icons": { "48": "icon.png" },
 	"browser_action":{
-		"default_title": "Crunchyroll de Artokk",
+		"defaut_title": "Crunchyroll de Artokk",
 		"default_popup": "popup.html",
 		"default_icon": "icon.png"
 	},
