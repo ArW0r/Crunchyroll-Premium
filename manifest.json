@@ -1,6 +1,6 @@
 {
 	"name": "Crunchyroll de Artokk",
-	"version": "0",
+	"version": "60 e 10",
 	"description": "Pra ver e baixar anime coisa de otaco 🤢🤢🤢",
 	"author": "ArW0r",
 	"icons": { "48": "icon.png" },
@@ -14,7 +14,7 @@
         ],
 	"content_scripts": [
     {
-        "matches": ["http://www.crunchyroll.com/*", "https://www.crunchyroll.com/*"],
+        "matches": ["https://www.crunchyroll.com/pt-br/"https://www.crunchyroll.com/pt-br/*"],
         "css": ["content.css"],
         "js": ["content.js"]
     }
